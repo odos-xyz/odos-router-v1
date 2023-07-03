@@ -9,5 +9,6 @@
 | <img src="https://assets.odos.xyz/chains/avalanche.png" width="100" height="100"><br>Avalanche | [`0xfE7Ce93ac0F78826CD81D506B07Fe9f459c00214`](https://snowtrace.io/address/0xfe7ce93ac0f78826cd81d506b07fe9f459c00214) |
 | <img src="https://assets.odos.xyz/chains/bnb.png" width="100" height="100"><br>BNB | [`0x9f138be5aA5cC442Ea7cC7D18cD9E30593ED90b9`](https://bscscan.com/address/0x9f138be5aa5cc442ea7cc7d18cd9e30593ed90b9) |
 | <img src="https://assets.odos.xyz/chains/fantom.png" width="100" height="100"><br>Fantom | [`0x061dc8e41C05207BedD6242eA4b342ef294BE359`](https://ftmscan.com/address/0x061dc8e41C05207BedD6242eA4b342ef294BE359) |
+| <img src="https://assets.odos.xyz/chains/zksync.png" width="100" height="100"><br>ZKSync Era | [`0xA269031037B4D5fa3F771c401D19E57def6Cb491`](https://explorer.zksync.io/address/0xA269031037B4D5fa3F771c401D19E57def6Cb491) |
 
 Audit: [Certik 4/11/2022](https://skynet.certik.com/projects/odos)
